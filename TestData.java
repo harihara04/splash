@@ -1,6 +1,7 @@
 package mav.metro.framework;
 
 import java.util.Map;
+check;
 
 public class TestData {
 
@@ -15,6 +16,6 @@ public class TestData {
 	}
 
 	public static void endThreadLocal() {
-		testDataMap.remove();
+		testDataMap.remove(;
 	}
 }
